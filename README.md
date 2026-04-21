@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alivkon&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alivkonr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alivkon&layout=compact&theme=radical)
 
 ---
 ✨ Всегда открыт для новых идей и коллабораций!
