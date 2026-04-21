@@ -24,8 +24,8 @@
 - LinkedIn: [Aleksandr Konishchev](https://www.linkedin.com/in/aleksandr-konishchev/)  
 
 ## 📊 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexAIBotMaster&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAIBotMaster&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alivkon&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alivkonr&layout=compact&theme=radical)
 
 ---
 ✨ Всегда открыт для новых идей и коллабораций!
