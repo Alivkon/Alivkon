@@ -1,4 +1,4 @@
-# 👋 Alex Konischev
+# 👋 Alexandr Konischev
 
 ## 🚀 AI / Automation Engineer
 
